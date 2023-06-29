@@ -1,16 +1,16 @@
-### Functional analysis 
+# Functional analysis 
 known the user of the app, in this case i'm three: user, chef, delivery
 
-### DB Design
+# DB Design
 - [ ] tables
 - [ ] relations
 
-### API Design
+# API Design
 - [ ] routes
 - [ ] public
 - [ ] admin
 
-### Backend Architecture
+# Backend Architecture
 - [ ] init server
 - [ ] DB
   - [ ] DB connection
@@ -25,7 +25,7 @@ known the user of the app, in this case i'm three: user, chef, delivery
 - [ ] testing
 - [ ] documentation
 
-### Frontend Architecture
+# Frontend Architecture
 - [ ] init React project
 - [ ] Navbat & Footer
 - [ ] CORS
@@ -38,15 +38,15 @@ known the user of the app, in this case i'm three: user, chef, delivery
   - [ ] orden page
 - [ ] unit test
 
-### Deploy
+# Deploy
 - [ ] create DB
-# local
+### local
 - [ ] backend 
   - [ ] Dockerfile, dockerignore
 - [ ] frontend
   - [ ] Dockerfile, dockerignore
 - [ ] docker-compose
-# cloud & CI/CD
+### cloud & CI/CD
 - [ ] init a ubuntu dropled in Digital Ocean
 - [ ] SSH conection
 - [ ] connect to github acount
